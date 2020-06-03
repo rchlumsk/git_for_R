@@ -16,3 +16,5 @@ The folder \setup contains an *R* script `install_R_packages_gitwebinar.R`
 which installs several *R* packages and tests that *git* is
 installed. Please run this script before trying any of the 
 examples or attempting the exercises.
+
+This webinar has currently 94 attendees :)
